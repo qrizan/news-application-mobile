@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_article">Article</string>
+    <string name="nav_category">Category</string>
+    <string name="category">Category</string>
+    <string name="new_article">New Article</string>
+    <string name="image_article">Image Article</string>
+    <string name="retry">Try Again</string>
+    <string name="article_title">List Article</string>
+    <string name="category_title">List Category</string>
+    <string name="loading">Loading</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
